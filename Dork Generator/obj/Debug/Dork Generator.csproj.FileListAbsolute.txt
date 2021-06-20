@@ -1,0 +1,33 @@
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\bin\Debug\Dork Generator.exe.config
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\bin\Debug\Dork Generator.exe
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\bin\Debug\Dork Generator.pdb
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\bin\Debug\Geckofx-Core.dll
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\bin\Debug\Geckofx-Winforms.dll
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\bin\Debug\MetroFramework.Design.dll
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\bin\Debug\MetroFramework.dll
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\obj\Debug\Dork_Generator.Form1.resources
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\obj\Debug\Dork_Generator.Properties.Resources.resources
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\obj\Debug\Dork Generator.csproj.GenerateResource.cache
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\obj\Debug\Dork Generator.csproj.CopyComplete
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\obj\Debug\Dork Generator.exe
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\obj\Debug\Dork Generator.pdb
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\obj\Debug\Dork Generator.csprojAssemblyReference.cache
+C:\Users\AKBELT\source\repos\Dork Generator\Dork Generator\obj\Debug\Dork_Generator.Form2.resources
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\bin\Debug\Dork Generator.exe.config
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\bin\Debug\Dork Generator.exe
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\bin\Debug\Dork Generator.pdb
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\bin\Debug\Geckofx-Core.dll
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\bin\Debug\Geckofx-Winforms.dll
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\bin\Debug\MetroFramework.Design.dll
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\bin\Debug\MetroFramework.dll
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\obj\Debug\Dork Generator.csprojAssemblyReference.cache
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\obj\Debug\Dork_Generator.Form1.resources
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\obj\Debug\Dork_Generator.Form2.resources
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\obj\Debug\Dork_Generator.Properties.Resources.resources
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\obj\Debug\Dork Generator.csproj.GenerateResource.cache
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\obj\Debug\Dork Generator.csproj.CopyComplete
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\obj\Debug\Dork Generator.exe
+C:\Users\yavuz\Desktop\Dork Generator\Dork Generator\obj\Debug\Dork Generator.pdb
