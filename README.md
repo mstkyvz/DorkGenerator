@@ -1,0 +1,2 @@
+# DorkGenerator
+Dork Oluşturma
